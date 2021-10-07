@@ -13,6 +13,7 @@
 		0843599E270F03D90007A7E3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0843599C270F03D90007A7E3 /* Main.storyboard */; };
 		084359A0270F03DA0007A7E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0843599F270F03DA0007A7E3 /* Assets.xcassets */; };
 		084359A3270F03DA0007A7E3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 084359A1270F03DA0007A7E3 /* LaunchScreen.storyboard */; };
+		084359AB270F04360007A7E3 /* CustomLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 084359AA270F04360007A7E3 /* CustomLabelView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0843599F270F03DA0007A7E3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		084359A2270F03DA0007A7E3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		084359A4270F03DA0007A7E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		084359AA270F04360007A7E3 /* CustomLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomLabelView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				0843599F270F03DA0007A7E3 /* Assets.xcassets */,
 				084359A1270F03DA0007A7E3 /* LaunchScreen.storyboard */,
 				084359A4270F03DA0007A7E3 /* Info.plist */,
+				084359AA270F04360007A7E3 /* CustomLabelView.swift */,
 			);
 			path = DidSetExample;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				0843599B270F03D90007A7E3 /* ViewController.swift in Sources */,
 				08435997270F03D90007A7E3 /* AppDelegate.swift in Sources */,
+				084359AB270F04360007A7E3 /* CustomLabelView.swift in Sources */,
 				08435999270F03D90007A7E3 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
